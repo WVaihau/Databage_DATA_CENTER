@@ -1,0 +1,26 @@
+<annotation>
+    	<folder>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images</folder>
+    	<filename>000063_JPG.rf.c34b95fa0c610f82e3cada41a46d5f95.jpg</filename>
+    	<path>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images\000063_JPG.rf.c34b95fa0c610f82e3cada41a46d5f95.jpg</path>
+    	<source>
+    		<database>Unknown</database>
+    	</source>
+    	<size>
+    		<width>2448</width>
+    		<height>3264</height>
+    		<depth>3</depth>
+    	</size>
+    	<segmented>0</segmented>
+    	<object>
+    		<name>metal</name>
+    		<pose>Unspecified</pose>
+    		<truncated>0</truncated>
+    		<difficult>0</difficult>
+    		<bndbox>
+    			<xmin>1546</xmin>
+    			<ymin>1509</ymin>
+    			<xmax>1785</xmax>
+    			<ymax>1645</ymax>
+    		</bndbox>
+    	</object>
+</annotation>

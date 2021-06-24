@@ -1,0 +1,26 @@
+<annotation>
+    	<folder>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images</folder>
+    	<filename>000048_jpg.rf.2381f52a308a97ca3ee02325e2c93824.jpg</filename>
+    	<path>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images\000048_jpg.rf.2381f52a308a97ca3ee02325e2c93824.jpg</path>
+    	<source>
+    		<database>Unknown</database>
+    	</source>
+    	<size>
+    		<width>1537</width>
+    		<height>2049</height>
+    		<depth>3</depth>
+    	</size>
+    	<segmented>0</segmented>
+    	<object>
+    		<name>plastique</name>
+    		<pose>Unspecified</pose>
+    		<truncated>0</truncated>
+    		<difficult>0</difficult>
+    		<bndbox>
+    			<xmin>1495</xmin>
+    			<ymin>452</ymin>
+    			<xmax>1957</xmax>
+    			<ymax>1444</ymax>
+    		</bndbox>
+    	</object>
+</annotation>

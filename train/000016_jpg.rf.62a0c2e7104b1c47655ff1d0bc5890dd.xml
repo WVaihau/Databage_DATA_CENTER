@@ -1,0 +1,26 @@
+<annotation>
+    	<folder>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images</folder>
+    	<filename>000016_jpg.rf.62a0c2e7104b1c47655ff1d0bc5890dd.jpg</filename>
+    	<path>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images\000016_jpg.rf.62a0c2e7104b1c47655ff1d0bc5890dd.jpg</path>
+    	<source>
+    		<database>Unknown</database>
+    	</source>
+    	<size>
+    		<width>416</width>
+    		<height>416</height>
+    		<depth>3</depth>
+    	</size>
+    	<segmented>0</segmented>
+    	<object>
+    		<name>paper</name>
+    		<pose>Unspecified</pose>
+    		<truncated>0</truncated>
+    		<difficult>0</difficult>
+    		<bndbox>
+    			<xmin>86</xmin>
+    			<ymin>30</ymin>
+    			<xmax>302</xmax>
+    			<ymax>367</ymax>
+    		</bndbox>
+    	</object>
+</annotation>

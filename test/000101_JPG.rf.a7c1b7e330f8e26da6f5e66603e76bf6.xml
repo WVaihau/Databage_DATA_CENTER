@@ -1,0 +1,26 @@
+<annotation>
+    	<folder>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images</folder>
+    	<filename>000101_JPG.rf.a7c1b7e330f8e26da6f5e66603e76bf6.jpg</filename>
+    	<path>D:\Doc\Programmation\Tensorflow_object_detection\DataSet\AquaTrash\Images\000101_JPG.rf.a7c1b7e330f8e26da6f5e66603e76bf6.jpg</path>
+    	<source>
+    		<database>Unknown</database>
+    	</source>
+    	<size>
+    		<width>3264</width>
+    		<height>2448</height>
+    		<depth>3</depth>
+    	</size>
+    	<segmented>0</segmented>
+    	<object>
+    		<name>glass</name>
+    		<pose>Unspecified</pose>
+    		<truncated>0</truncated>
+    		<difficult>0</difficult>
+    		<bndbox>
+    			<xmin>366</xmin>
+    			<ymin>993</ymin>
+    			<xmax>1961</xmax>
+    			<ymax>2531</ymax>
+    		</bndbox>
+    	</object>
+</annotation>
